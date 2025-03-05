@@ -7,12 +7,12 @@ This repository contains code for analyzing health insurance claims denials acro
 
 Project Structure:
 
-/repo-root
-│── data/                           # Folder for raw datasets (not included in repo)
-│── notebooks/                       # Jupyter notebooks for data processing & analysis
-│   ├── FINAL_NAME_OF_CODE_NOTEBOOK.ipynb      # Data ingestion and preprocessing; exploratory data analysis (EDA) & visualizations
-│── requirements.txt                  # Required dependencies
-│── README.md                         # Project documentation
+/repo-root  
+│── data/                           # Folder for raw datasets (not included in repo)  
+│── notebooks/                       # Jupyter notebooks for data processing & analysis  
+│   ├── FINAL_NAME_OF_CODE_NOTEBOOK.ipynb      # Data ingestion and preprocessing; exploratory data analysis (EDA) & visualizations  
+│── requirements.txt                  # Required dependencies  
+│── README.md                         # Project documentation  
 
 Dataset:
 
