@@ -8,8 +8,8 @@ This repository contains code for analyzing health insurance claims denials acro
 Project Structure:
 
 /repo-root  
-│── data/                           # Folder for raw datasets, in repo broken out to see all 2015-2023 datasets and Topline Survey for contextual information
-│── notebooks/                       # Jupyter notebooks for data processing & analysis  
+│── data/                           # Folder for raw datasets, in repo broken out to see all 2015-2023 datasets and Topline Survey for contextual information (2015-KFF-Transparency-Data-Working-File.xlsx, 2016-KFF-Transparency-Data-Working-File.xlsx, ..., 2023-KFF-Transparency-Data-Working-File.xlsx; Topline-Survey-of-Consumer-Experiences-with-Health-Insurance.pdf)
+│── notebooks/                       # Jupyter notebooks for data processing & analysis    
 │   ├── FINAL_NAME_OF_CODE_NOTEBOOK.ipynb      # Data ingestion and preprocessing; exploratory data analysis (EDA) & visualizations  
 │── requirements.txt                  # Required dependencies  
 │── README.md                         # Project documentation  
