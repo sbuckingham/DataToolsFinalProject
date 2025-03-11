@@ -8,11 +8,11 @@ This repository contains code for analyzing health insurance claims denials acro
 Project Structure:
 
 /repo-root  
-│── 2015-KFF-Transparency-Data-Working-File.xlsx, 2016-KFF-Transparency-Data-Working-File.xlsx, ..., 2023-KFF-Transparency-Data-Working-File.xlsx   # Dataset files from 2015-2023
-│── Topline-Survey-of-Consumer-Experiences-with-Health-Insurance.pdf # Survey with additional contextual information
-│── FINAL_NAME_OF_CODE_NOTEBOOK.ipynb      # Jupyter notebook for data processing & analysis   
-│── requirements.txt                  # Required dependencies  
-│── README.md                         # Project documentation  
+│── 2015-KFF-Transparency-Data-Working-File.xlsx, 2016-KFF-Transparency-Data-Working-File.xlsx, ..., 2023-KFF-Transparency-Data-Working-File.xlsx   # Dataset files from 2015-2023   
+│── Topline-Survey-of-Consumer-Experiences-with-Health-Insurance.pdf # Survey with additional contextual information   
+│── FINAL_NAME_OF_CODE_NOTEBOOK.ipynb      # Jupyter notebook for data processing & analysis    
+│── requirements.txt                  # Required dependencies   
+│── README.md                         # Project documentation   
 
 Dataset:
 
