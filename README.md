@@ -37,8 +37,8 @@ Setup & Installation:
 3. Install required dependencies:  
    pip install -r requirements.txt   
 
-Usage:   Run the data preprocessing Jupyter notebook:   
-   jupyter notebook notebooks/Data Tools Final Project.ipynb   
+Usage:   Run the Jupyter notebook:   
+   /Data Tools Final Project.ipynb   
 
 
 Dependencies:
