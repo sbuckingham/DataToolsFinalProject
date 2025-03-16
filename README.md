@@ -13,6 +13,7 @@ Project Structure:
 │── Data Tools Final Project.ipynb      # Jupyter notebook for data processing & analysis    
 │── requirements.txt                  # Required dependencies   
 │── README.md                         # Project documentation   
+│── Data Tools Final Project Presentation # Project presentation    
 
 Dataset:   
 
