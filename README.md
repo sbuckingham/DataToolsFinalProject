@@ -49,5 +49,11 @@ Dependencies:
 - seaborn
 - matplotlib
 - Jupyter Notebook
+- geopandas
+- pandas
+- plotly
+- scipy
+- scitkit-learn
+- statsmodels
 
 
